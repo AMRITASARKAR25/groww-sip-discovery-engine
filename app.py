@@ -23,7 +23,7 @@ st.caption("AI-powered research | Groww SIP continuation")
 
 RESULTS_FILE = Path("sip_ai_analysis.csv")
 MODEL = "gemini-3.1-flash-lite"
-BATCH_SIZE = 5
+BATCH_SIZE = 2
 
 FIELDS = [
     "investor_stage",
